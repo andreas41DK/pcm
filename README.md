@@ -12,11 +12,14 @@ To control your computer you have to install a server part of PCManager on your 
 
 ### FAQ:
 #### If you can't find a computer or can't connect to your PC and WiFi network for both devices is the same
-turn off third-party firewall / antivirus or add the exception.
+- turn off third-party firewall / antivirus or add a new exception.
 #### If the computer you're using uses a third-party firewall (for example supplied with Antivirus)
-add exceptions on the following ports:
+- add exceptions for ports:
+`
 TCP: 137, 139, 8080
 UDP: 137
+`
+
 **note:** Only TCP 8080 can be linked to the "PCManagerUIClient.exe" application, other ports need to be opened without reference to the application.
 
 #############################

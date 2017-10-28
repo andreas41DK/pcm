@@ -1,7 +1,7 @@
 ## PC Manager(fast media control)
 
 With this app you can interract with your computer via an Android smartphone. 
-# NOTE: _Your computer and smartphone have to be connected to the same WiFi network._
+### NOTE: _Your computer and smartphone have to be connected to the same WiFi network._
 
 ### Available futures:
 - turn off a computer
@@ -11,9 +11,9 @@ With this app you can interract with your computer via an Android smartphone.
 To control your computer you have to install a server part of PCManager on your PC or laptop. You can download the server version for Windows OS here: [https://goo.gl/c6v695]
 
 ### FAQ:
-# If you can't find a computer or can't connect to your PC and the WiFi network is local to both devices
+#### If you can't find a computer or can't connect to your PC and the WiFi network is local to both devices
 turn off third-party firewall / antivirus or add the exception.
-# If the computer you're using uses a third-party firewall (for example supplied with Antivirus)
+#### If the computer you're using uses a third-party firewall (for example supplied with Antivirus)
 add exceptions on the following ports:
 TCP: 137, 139, 8080
 UDP: 137

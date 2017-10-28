@@ -13,6 +13,7 @@ To control your computer you have to install a server part of PCManager on your 
 ### FAQ:
 #### If you can't find your computer or can't connect to it and WiFi network for both devices is the same
 - turn off third-party firewall / antivirus or add a new exception.
+
 #### If the computer you're using uses a third-party firewall (for example supplied with Antivirus)
 - add exceptions for ports:
 `

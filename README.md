@@ -17,8 +17,8 @@ To control your computer you have to install a server part of PCManager on your 
 #### If the computer you're using uses a third-party firewall (for example supplied with Antivirus)
 - add exceptions for ports:
 
-`TCP: 137, 139, 8080
-UDP: 137`
+1. `TCP: 137, 139, 8080`
+2. `UDP: 137`
 
 **note:** Only TCP 8080 can be linked to the "PCManagerUIClient.exe" application, other ports need to be opened without reference to the application.
 

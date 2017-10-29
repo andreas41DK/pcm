@@ -1,6 +1,5 @@
-## PC Manager(fast media control)
-
 With this app you can interract with your computer via an Android smartphone. 
+
 ### NOTE: _Your computer and smartphone have to be connected to the same WiFi network._
 
 ### Available futures:

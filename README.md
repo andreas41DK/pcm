@@ -4,8 +4,13 @@ With this app you can interract with your computer via an Android smartphone.
 
 ### Available futures:
 - turn off a computer
+- turn off by timer
 - change volume
 - change brightness (_available for a laptop only_) 
+- play/pause actions
+- next track
+- previouse track
+- and whatewer you want with custome hotkeys
 
 To control your computer you have to install a server part of PCManager on your PC or laptop. You can download the server version for Windows OS here: [https://goo.gl/c6v695]
 

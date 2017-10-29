@@ -1,5 +1,6 @@
 With this app you can interract with your computer via an Android smartphone. 
 
+<a href="http://photouploads.com/image/8NB"><img src="http://photouploads.com/images/d94393.th.png" alt="d94393.th.png" border="0"></a> <a href="http://photouploads.com/image/8ND"><img src="http://photouploads.com/images/6f076b.th.png" alt="6f076b.th.png" border="0"></a>
 
 ### NOTE: _Your computer and smartphone have to be connected to the same WiFi network._
 

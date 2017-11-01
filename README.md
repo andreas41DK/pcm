@@ -1,4 +1,5 @@
 <img src="http://photouploads.com/images/a453f3.png" alt="a453f3.png" border="0"><img src="http://photouploads.com/images/d2127c.png" alt="d2127c.png" border="0">
+
 With this app you can interract with your computer via an Android smartphone. 
 ### NOTE: _Your computer and smartphone have to be connected to the same WiFi network._
 

@@ -33,4 +33,4 @@ To control your computer you have to install a server part of PCManager on your 
 
 Having trouble with our Application? Read [FAQ](#faq) or create new issue [here](https://github.com/butsaty/pcm/issues)
 
-Have ideas or questions? Send email to pc.manager.sup@gmail.com and we’ll help you sort it out.
+Do you have ideas or questions? Send email to pc.manager.sup@gmail.com and we’ll help you sort it out.

@@ -1,7 +1,6 @@
-<img src="http://photouploads.com/images/1fb2d7.png" alt="1fb2d7.png" border="0"><img src="http://photouploads.com/images/24e989.png" alt="24e989.png" border="0"><img src="http://photouploads.com/images/4882ef.png" alt="4882ef.png" border="0">
+<img src="https://raw.githubusercontent.com/butsaty/pcm/master/_imgs/Screenshot_2016-11-23-20-00-05_sm.png" alt="img1.png" border="0"><img src="https://raw.githubusercontent.com/butsaty/pcm/master/_imgs/Screenshot_2016-11-23-19-59-58_sm.png" alt="img2.png" border="0"><img src="https://raw.githubusercontent.com/butsaty/pcm/master/_imgs/Screenshot_2016-11-23-20-00-36_sm.png" alt="img3.png" border="0">
 
 
-<img src="https://raw.githubusercontent.com/butsaty/pcm/master/_imgs/Screenshot_2016-11-23-19-59-58_sm.png" alt="1fb2d7.png" border="0">
 
 With this app you can interract with your computer via Android smartphones. 
 ## NOTE: _Your computer and smartphone must be connected to the same WiFi network._

@@ -1,3 +1,20 @@
+<div style="display:inline-block;vertical-align:top;">
+    <img src="http://photouploads.com/images/24e989.png" alt="24e989.png"/>
+</div>
+<div style="display:inline-block;">
+  <div>
+    ### Available futures:
+- turn off a computer
+- turn off by timer
+- change volume
+- change brightness (_available for a laptop only_) 
+- play/pause actions
+- next track
+- previouse track
+- and whatewer you want with custome hotkeys
+  </div>
+</div>
+
 <img src="http://photouploads.com/images/24e989.png" alt="24e989.png" border="0">
 
 <img src="http://photouploads.com/images/4882ef.png" alt="4882ef.png" border="0">

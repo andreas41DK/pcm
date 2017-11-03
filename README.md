@@ -15,7 +15,7 @@ With this app you can interract with your computer via Android smartphones.
 - previouse track
 - and whatewer you want with custome hotkeys
 
-To control your computer you have to install a server part of PCManager on your PC or laptop. You can download the server version for Windows OS here: [https://github.com/butsaty/pcm/raw/master/packages/PCManagerSetup_v102.zip]
+To control your computer you have to install a server part of PCManager on your PC or laptop. You can download the server version for Windows OS [here](https://butsaty.github.io/pcm/packages/PCManagerSetup_v102.zip)
 
 # FAQ:
 #### If you can't find your computer or can't connect to it and WiFi network for both devices is the same
